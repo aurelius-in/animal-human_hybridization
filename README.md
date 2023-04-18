@@ -1,6 +1,6 @@
 # Research Proposal: Comparing DNA Sequences for Gene Manipulations in Animal-Human Hybridization
 
-## Introduction
+## Introduction 
 
 The concept of animal-human hybridization has long been a topic of interest and controversy. In H.G. Wells' novel, "The Island of Dr. Moreau," the ethical implications of such experimentation are explored. This research proposal aims to contribute to the understanding of animal-human hybridization by proposing a focus on gene manipulations using DNA sequencing comparisons.
 
